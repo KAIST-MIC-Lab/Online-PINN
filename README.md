@@ -1,5 +1,4 @@
-# Deep-Neuro Control with Contraction Theory
-
+# PINN ONKLLE
 ## Description
  
 The objectives of this research are as follows:
